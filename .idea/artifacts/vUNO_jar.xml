@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="vUNO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/vUNO_jar</output-path>
+    <root id="archive" name="vUNO.jar">
+      <element id="module-output" name="vUNO" />
+    </root>
+  </artifact>
+</component>
